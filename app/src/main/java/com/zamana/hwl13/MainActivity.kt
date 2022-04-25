@@ -7,6 +7,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        //git test undo commit fixed
+        //git commit for cherry pick
     }
 
     fun newfunction(){
