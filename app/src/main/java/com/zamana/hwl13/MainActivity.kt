@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun newfunction(){
+        val a = 0
         val i = 9
     }
 }
